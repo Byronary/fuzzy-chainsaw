@@ -2,3 +2,4 @@ The second file
 
 First change on crazy idea
 Second change on crazy idea.
+Third change on crazy idea.
