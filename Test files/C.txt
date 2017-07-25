@@ -1,1 +1,2 @@
 new file on change 2
+conflict
